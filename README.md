@@ -2,14 +2,14 @@
 Using Open CV we made a robot which can detect a yellow ball and follow it.
 
 Components Used:
-BO Motors
-Raspberry Pi3
-L298N Motor Drivers
-PiCamera
-Power Bank
-Chassis
-LiPo Battery
-Jumper wires
+*BO Motors
+*Raspberry Pi3
+*L298N Motor Drivers
+*PiCamera
+*Power Bank
+*Chassis
+*LiPo Battery
+*Jumper wires
 
 The basic body of the bot is provided by the chassis. 
 The locomotion is given by the wheels using BO motors. 
